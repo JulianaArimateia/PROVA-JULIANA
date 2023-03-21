@@ -1,0 +1,33 @@
+.mensagens-erro {
+    color: red;
+}
+
+.fadeOut {
+    opacity: 0;
+    transition: 0.5s;
+}
+
+.erro-busca {
+    display: none;
+}
+
+.rodape {
+
+    color: #fdfdfd;
+    text-align: center;
+    padding: 1.5625 5rem;
+    margin-top: 2rem;
+    font-size: 1rem;
+    justify-content: space-around;
+    display: flex;
+}
+
+h3 {
+    margin-top: 1rem;
+    font-family: Verdana;
+    color: #fdfdfd;
+}
+
+.maps {
+    margin-top: 1rem;
+}
